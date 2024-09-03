@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tasks = () => {
   return (
-    <div>Tasks</div>
+    <div className='flex justify-center font-bold bg-black text-white text-3xl'>Tasks</div>
   )
 }
 
