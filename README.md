@@ -1,4 +1,4 @@
-# React + Vite
+# Todo app that store the data in the memory of the broser so you canget the data after the browser restart
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
